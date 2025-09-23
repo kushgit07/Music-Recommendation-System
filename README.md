@@ -1,0 +1,1 @@
+This Music Recommendation System is a system that recommends songs similar to a given input song based on metadata such as genre, artist name and track name. We will use the "TCC CEDs Music Dataset" which contains metadata about songs, including their genres, artists and lyrics. 
